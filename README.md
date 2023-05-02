@@ -1,4 +1,4 @@
-<div>
+<div aling="center">
   <h1>Hi there 👋 I'm Svetlana</h1>
   <h2>Junior Frontend developer</h2>
 </div>
