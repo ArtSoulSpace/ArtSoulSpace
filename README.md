@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Svetlana
+<div>
+  <h1>Hi there 👋 I'm Svetlana</h1>
+  <h2>Junior Frontend developer</h2>
+</div>
 
 <!--
 **ArtSoulSpace/ArtSoulSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
