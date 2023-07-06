@@ -5,7 +5,8 @@
 
 <div>
   Language and tools <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width='40' height='40'/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title='vscode'width='40' height='40'/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title='html' width='40' height='40'/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title='css' width='40' height='40'/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title='js' width='40'      height='40'/>&nbsp
 
