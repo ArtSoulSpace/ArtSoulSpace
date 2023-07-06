@@ -4,8 +4,8 @@
 </div>
 
 <div>
-  Language and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title='css' width='40' height='40'/>&nbcp
+  Language and tools <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title='css' width='40' height='40'/>&nbsp
 <div/>
 
 <!--
