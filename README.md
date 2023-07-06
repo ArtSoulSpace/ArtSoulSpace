@@ -3,6 +3,11 @@
   <h2>Junior Frontend developer</h2>
 </div>
 
+<div>
+  Language and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title='css' width='40' height='40'/>&nbcp
+<div/>
+
 <!--
 **ArtSoulSpace/ArtSoulSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
